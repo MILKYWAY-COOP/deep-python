@@ -20,5 +20,3 @@ for key, value in d.items():
 d = {'a': 1, 'b':2, 'c':3}
 for key in d.keys():
     print(key, d[key])
-
-# 3. Using .values() method: The .values() method re
